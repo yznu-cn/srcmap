@@ -28,6 +28,10 @@
 
 [win32编程demo](<https://github.com/luguanxing/Win32-Programming>)
 
+[浙江大学课程攻略共享计划](<https://github.com/QSCTech/zju-icicles>)
+
+[清华大学计算机系课程攻略](<https://github.com/PKUanonym/REKCARC-TSC-UHT>)
+
 
 
 
