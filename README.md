@@ -32,6 +32,12 @@
 
 [清华大学计算机系课程攻略](<https://github.com/PKUanonym/REKCARC-TSC-UHT>)
 
+[数据结构和算法必知必会的50个代码实现](<https://github.com/wangzheng0822/algo>)
+
+[深度学习500问](<https://github.com/scutan90/DeepLearning-500-questions>)
+
+[Python - 100天从新手到大师](<https://github.com/jackfrued/Python-100-Days>)
+
 
 
 
